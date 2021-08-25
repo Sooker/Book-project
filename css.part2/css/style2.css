@@ -1,0 +1,21 @@
+    *{
+        box-sizing:border-box;
+    }
+    body {
+        background-color: rgb(250, 247, 225);
+    }
+    h1 {
+        text-align: center;
+        color: red;
+        font-size: 18px;
+    }
+    .text {
+        font-style: italic;
+    }
+    .text2 {
+        text-transform: uppercase;
+    }
+    img {
+        display: block;
+        margin: 0 auto;
+    }
